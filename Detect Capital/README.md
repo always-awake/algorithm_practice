@@ -20,7 +20,6 @@ Note: The input will be a non-empty word consisting of uppercase and lowercase l
 
 
 ##Submissions
-
 Runtime: 72 ms, faster than 86.67% of Python3 online submissions for Detect Capital.
 
 Runtime: 76 ms, faster than 63.33% of Python3 online submissions for Detect Capital.
