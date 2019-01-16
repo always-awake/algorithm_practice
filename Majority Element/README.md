@@ -4,13 +4,13 @@ Given an array of size n, find the majority element. The majority element is the
 You may assume that the array is non-empty and the majority element always exist in the array.
 
 ## Example 1
-Input: [3,2,3]
-Output: 3
+- Input: [3,2,3]
+- Output: 3
 
 ## Example 2
-Input: [2,2,1,1,1,2,2]
-Output: 2
+- Input: [2,2,1,1,1,2,2]
+- Output: 2
 
 ## Submissions
-Runtime: 72 ms, faster than 93.43% of Python3 online submissions for Majority Element.
-Runtime: 72 ms, faster than 93.43% of Python3 online submissions for Majority Element.
+- Runtime: 72 ms, faster than 93.43% of Python3 online submissions for Majority Element.
+- Runtime: 72 ms, faster than 93.43% of Python3 online submissions for Majority Element.
