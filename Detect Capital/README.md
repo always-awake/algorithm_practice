@@ -1,3 +1,5 @@
+
+# Problems
 Given a word, you need to judge whether the usage of capitals in it is right or not.
 
 We define the usage of capitals in a word to be right when one of the following cases holds:
@@ -19,7 +21,7 @@ Output: False
 Note: The input will be a non-empty word consisting of uppercase and lowercase latin letters.
 
 
-##Submissions
+# Submissions
 
 Runtime: 72 ms, faster than 86.67% of Python3 online submissions for Detect Capital.
 
