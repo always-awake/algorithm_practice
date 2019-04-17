@@ -1,7 +1,8 @@
+# index 함수를 사용하지 않고 같은 기능 구현
 def linear_search(element, some_list):
-    for i in some_list:
-        if i == element:
-            return some_list.index(i)
+    for i in range(len(some_list)):
+        if some_list[i] == element:
+            return i
     return None
 
 # 테스트
