@@ -83,7 +83,7 @@ def factorial(n):
 print(factorial(4))
 ```
 * 재귀 실행
-<img src="images/재귀.png">
+<img src="images/재귀.png" width="75%" height="75%">
 
 ### 재귀 함수 VS 반복문
 * 재귀 함수로 해결할 수 있는 문제는 반복문으로 해결 가능
