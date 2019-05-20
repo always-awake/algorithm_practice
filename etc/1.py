@@ -20,3 +20,14 @@ def solution(participant, completion):
         if participant[i] != completion[i]:
             return participant[i]
     return participant[-1]
+
+# 해시를 이용한 풀이
+def solution(participant, completion):
+    temp = 0
+    dic = {}
+    for part in participant:
+        dic[hash(part)] = part
+        temp += hash(part)
+    for com in completion:
+        temp -= hash(com)
+    return dic[temp]
